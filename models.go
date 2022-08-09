@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/EndFirstCorp/peekingReader"
+	"github.com/robarchibald/peekingReader"
 )
 
 func (o *object) getFont() *font {

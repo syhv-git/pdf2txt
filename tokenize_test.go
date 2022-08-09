@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/EndFirstCorp/peekingReader"
+	"github.com/robarchibald/peekingReader"
 )
 
 func TestTokenize(t *testing.T) {

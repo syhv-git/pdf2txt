@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/EndFirstCorp/peekingReader"
+	"github.com/robarchibald/peekingReader"
 )
 
 // extract the compressed streams into text files for debugging

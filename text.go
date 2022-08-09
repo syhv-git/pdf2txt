@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/EndFirstCorp/peekingReader"
+	"github.com/robarchibald/peekingReader"
 )
 
 type document struct {

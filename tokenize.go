@@ -6,9 +6,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/EndFirstCorp/peekingReader"
+	"github.com/robarchibald/peekingReader"
 
-	"github.com/pkg/errors"
+	"errors"
 )
 
 type comment string
