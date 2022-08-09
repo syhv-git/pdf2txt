@@ -1,4 +1,4 @@
-module syhv-git/pdf2txt
+module github.com/syhv-git/pdf2txt
 
 go 1.18
 
